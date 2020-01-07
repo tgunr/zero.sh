@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/zero-sh/zero.sh.svg?branch=master)](https://travis-ci.org/zero-sh/zero.sh)
 
-## Zero.sh - Start with a clean slate <img src="zero.png" width="32" height="32">
+<img src="zero.png" width="64" height="64"> 
+
+## Zero.sh - Start with a clean slate
 
 #### Create an identical installation on any Mac with a single command.
 
