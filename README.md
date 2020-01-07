@@ -1,10 +1,10 @@
 <img src="zero.png" width="64" height="64"> 
 
-[![Build Status](https://travis-ci.org/zero-sh/zero.sh.svg?branch=master)](https://travis-ci.org/zero-sh/zero.sh)
-
 ## Zero.sh - Start with a clean slate
 
 #### Create an identical installation on any Mac with a single command.
+
+[![Build Status](https://travis-ci.org/zero-sh/zero.sh.svg?branch=master)](https://travis-ci.org/zero-sh/zero.sh)
 
 This lets you to restore a machine without having to deal with the mess that was
 the state of a previous installation, or painstakingly babysit the process
